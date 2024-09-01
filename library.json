@@ -1,13 +1,13 @@
 {
-    "name": "Chrissyx IPA Library",
-    "identifier": "com.chrissyx.test",
-    "subtitle": "Chrissyx test ipa library",
+    "name": "Apple Internal IPA Library",
+    "identifier": "com.chrissyx.ist.internal",
+    "subtitle": "Chrissyx Internal Apps IPA library",
     "iconURL": "",
     "website": "",
-    "sourceURL": "https://raw.githubusercontent.com/Chrissshere/Testlibripa/main/test.json",
+    "sourceURL": "https://raw.githubusercontent.com/Chrissshere/AppleInternal/main/Library.json",
     "tintColor": "FFC300",
     "featuredApps": [
-        "chrissyx.store"
+        "chrissyx.??"
     ],
     "crypto": {
         "btc": "xxx"
@@ -17,15 +17,15 @@
             "name": "testipa XCode",
             "bundleIdentifier": "com.crissyx.testipa",
             "developerName": "Chrissyx Limited 24",
-            "version": "1.0.1",
-            "versionDate": "2024-06-08",
-            "downloadURL": "https://dl.orangedox.com/iHDVF4qRm89AIQCqGC?dl=1",
-            "localizedDescription": "First ipa to repo. This is an app that will be created with swift and tested. You can't use it though. Password protected.",
-            "iconURL": "https://th.bing.com/th/id/OIG3._zHE9q_dFgW7UmpOxqbr?pid=ImgGn",
+            "version": "4.5",
+            "versionDate": "2024-01-09",
+            "downloadURL": "https://archive.org/download/unknown-tags-archive/Radar/com.apple.ist.radar_v4.5-4.5.ipa",
+            "localizedDescription": "First ipa to repo. Will add every single app in Unknown-tags-archive, aswell add more apps from outside his repo, so you can be able to use this repo for esign, scarlet!",
+            "iconURL": "xx",
             "tintColor": "FFC300",
             "size": 790259,
             "screenshotURLs": [
-                "https:\/\/\/serve\/screenshots\/Speedtest_VPN_Premium_5.4.0\/Speedtest_VPN_Premium_5.4.0-0.png"
+                "xx"
             ]
         },
                 {
@@ -34,7 +34,7 @@
             "developerName": "Chrissyx Limited 24",
             "version": "5.0",
             "versionDate": "2024-06-10",
-            "downloadURL": "https://dl.orangedox.com/eSH0RuwTPrUtRpsq3k?dl=1",
+            "downloadURL": "dl=1",
             "localizedDescription": "iMessages for iOS 5.0. Retro iPA Archive.",
             "iconURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2b14985a-c66e-4dbd-b09c-609fe0678dae/d5l65oe-ed065c0c-46d0-4db7-994b-52420302fa92.png",
             "tintColor": "FFC300",
@@ -49,7 +49,7 @@
             "developerName": "Chrissyx Limited 24",
             "version": "1.0.1",
             "versionDate": "2024-06-08",
-            "downloadURL": "https://dl.orangedox.com/iHDVF4qRm89AIQCqGC?dl=1",
+            "downloadURL": "dl=1",
             "localizedDescription": "First ipa to repo. This is an app that will be created with swift and tested. You can't use it though. Password protected.",
             "iconURL": "?",
             "tintColor": "FFC300",
