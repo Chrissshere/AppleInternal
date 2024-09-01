@@ -1,0 +1,62 @@
+{
+    "name": "Chrissyx IPA Library",
+    "identifier": "com.chrissyx.test",
+    "subtitle": "Chrissyx test ipa library",
+    "iconURL": "",
+    "website": "",
+    "sourceURL": "https://raw.githubusercontent.com/Chrissshere/Testlibripa/main/test.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "chrissyx.store"
+    ],
+    "crypto": {
+        "btc": "xxx"
+    },
+    "apps": [
+        {
+            "name": "testipa XCode",
+            "bundleIdentifier": "com.crissyx.testipa",
+            "developerName": "Chrissyx Limited 24",
+            "version": "1.0.1",
+            "versionDate": "2024-06-08",
+            "downloadURL": "https://dl.orangedox.com/iHDVF4qRm89AIQCqGC?dl=1",
+            "localizedDescription": "First ipa to repo. This is an app that will be created with swift and tested. You can't use it though. Password protected.",
+            "iconURL": "https://th.bing.com/th/id/OIG3._zHE9q_dFgW7UmpOxqbr?pid=ImgGn",
+            "tintColor": "FFC300",
+            "size": 790259,
+            "screenshotURLs": [
+                "https:\/\/\/serve\/screenshots\/Speedtest_VPN_Premium_5.4.0\/Speedtest_VPN_Premium_5.4.0-0.png"
+            ]
+        },
+                {
+            "name": "iMessages 5.0",
+            "bundleIdentifier": "com.apple.mobileSMS",
+            "developerName": "Chrissyx Limited 24",
+            "version": "5.0",
+            "versionDate": "2024-06-10",
+            "downloadURL": "https://dl.orangedox.com/eSH0RuwTPrUtRpsq3k?dl=1",
+            "localizedDescription": "iMessages for iOS 5.0. Retro iPA Archive.",
+            "iconURL": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/2b14985a-c66e-4dbd-b09c-609fe0678dae/d5l65oe-ed065c0c-46d0-4db7-994b-52420302fa92.png",
+            "tintColor": "FFC300",
+            "size": 790259,
+            "screenshotURLs": [
+                "https:\/\/\/serve\/screenshots\/Speedtest_VPN_Premium_5.4.0\/Speedtest_VPN_Premium_5.4.0-0.png"
+            ]
+        },
+        {
+            "name": "????",
+            "bundleIdentifier": "com.crissyx.???",
+            "developerName": "Chrissyx Limited 24",
+            "version": "1.0.1",
+            "versionDate": "2024-06-08",
+            "downloadURL": "https://dl.orangedox.com/iHDVF4qRm89AIQCqGC?dl=1",
+            "localizedDescription": "First ipa to repo. This is an app that will be created with swift and tested. You can't use it though. Password protected.",
+            "iconURL": "?",
+            "tintColor": "FFC300",
+            "size": 790259,
+            "screenshotURLs": [
+                "https:\/\/\/serve\/screenshots\/Speedtest_VPN_Premium_5.4.0\/Speedtest_VPN_Premium_5.4.0-0.png"
+            ]
+        },
+    ]
+}
