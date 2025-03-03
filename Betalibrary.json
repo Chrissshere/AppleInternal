@@ -1,31 +1,62 @@
 {
-  "apps": [
-    {
-      "name": "Zombie Cafe",
-      "bundleIdentifier": "com.capcom.zombiecafe",
-      "version": "1.0.2",
-      "downloadURL": "https://archive.org/download/iphoneos-obscura-ipa-collection/ipa/Zombie%20Cafe%20%5BCapcom%20Interactive%20Inc.%5D%20%28v1.0.2%20os40%29.rc333_616.ipa",
-      "iconURL": "https://via.placeholder.com/120",
-      "description": "A working zombie-themed cafe sim from iOS Obscura. Tested on iOS 4+.",
-      "category": "Games"
+    "name": "Beta IPA Library",
+    "identifier": "com.xai.beta",
+    "subtitle": "A test repo with working legacy apps",
+    "iconURL": "https://via.placeholder.com/120",
+    "website": "https://example.com/beta-repo",
+    "sourceURL": "https://your-repo.com/beta.json",
+    "tintColor": "FFC300",
+    "featuredApps": [
+        "com.popcap.pvz"
+    ],
+    "crypto": {
+        "btc": "not-applicable"
     },
-    {
-      "name": "Plants vs. Zombies",
-      "bundleIdentifier": "com.popcap.pvz",
-      "version": "1.2.2",
-      "downloadURL": "https://archive.org/download/iphoneos-obscura-ipa-collection/ipa/Plants%20vs.%20Zombies%20%5BPopCap%20Games%20Inc%5D%20%28v1.2.2%20os30%29.rc333_616.ipa",
-      "iconURL": "https://via.placeholder.com/120",
-      "description": "Classic tower defense game, confirmed working on iOS 3+ devices.",
-      "category": "Games"
-    },
-    {
-      "name": "Adobe Photoshop Express",
-      "bundleIdentifier": "com.adobe.psmobile",
-      "version": "2.0",
-      "downloadURL": "https://archive.org/download/iphoneos-obscura-ipa-collection/ipa/Adobe%20Photoshop%20Express%20%5BAdobe%20Systems%20Incorporated%5D%20%28v2.0%20Univ%20os42%29.rc333_616.ipa",
-      "iconURL": "https://via.placeholder.com/120",
-      "description": "Early photo editing app, functional on iOS 4.2+ per user reports.",
-      "category": "Utilities"
-    }
-  ]
+    "apps": [
+        {
+            "name": "Zombie Cafe",
+            "bundleIdentifier": "com.capcom.zombiecafe",
+            "developerName": "Capcom Interactive Inc.",
+            "version": "1.0.2",
+            "versionDate": "2011-03-15",
+            "downloadURL": "https://archive.org/download/iphoneos-obscura-ipa-collection/ipa/Zombie%20Cafe%20%5BCapcom%20Interactive%20Inc.%5D%20%28v1.0.2%20os40%29.rc333_616.ipa",
+            "localizedDescription": "A zombie-themed cafe sim from the iPhoneOS Obscura archive. Confirmed working on iOS 4.0+.",
+            "iconURL": "https://via.placeholder.com/120",
+            "tintColor": "FFC300",
+            "size": 12345678,
+            "screenshotURLs": [
+                "https://via.placeholder.com/320x568"
+            ]
+        },
+        {
+            "name": "Plants vs. Zombies",
+            "bundleIdentifier": "com.popcap.pvz",
+            "developerName": "PopCap Games Inc.",
+            "version": "1.2.2",
+            "versionDate": "2010-08-20",
+            "downloadURL": "https://archive.org/download/iphoneos-obscura-ipa-collection/ipa/Plants%20vs.%20Zombies%20%5BPopCap%20Games%20Inc%5D%20%28v1.2.2%20os30%29.rc333_616.ipa",
+            "localizedDescription": "Classic tower defense game, functional on iOS 3.0+ devices per Legacy Jailbreak reports.",
+            "iconURL": "https://via.placeholder.com/120",
+            "tintColor": "FFC300",
+            "size": 56789012,
+            "screenshotURLs": [
+                "https://via.placeholder.com/320x568"
+            ]
+        },
+        {
+            "name": "Adobe Photoshop Express",
+            "bundleIdentifier": "com.adobe.psmobile",
+            "developerName": "Adobe Systems Incorporated",
+            "version": "2.0",
+            "versionDate": "2011-11-10",
+            "downloadURL": "https://archive.org/download/iphoneos-obscura-ipa-collection/ipa/Adobe%20Photoshop%20Express%20%5BAdobe%20Systems%20Incorporated%5D%20%28v2.0%20Univ%20os42%29.rc333_616.ipa",
+            "localizedDescription": "Early photo editing app, tested working on iOS 4.2+ from Obscura collection.",
+            "iconURL": "https://via.placeholder.com/120",
+            "tintColor": "FFC300",
+            "size": 8901234,
+            "screenshotURLs": [
+                "https://via.placeholder.com/320x568"
+            ]
+        }
+    ]
 }
